@@ -1,0 +1,36 @@
+﻿  main.cpp
+C:\Users\Dabaxa\source\repos\myproject\myproject\clasebi.h(26,22): error C2084: function 'std::ostream &operator <<(std::ostream &,const Employee &)' already has a body
+  (compiling source file 'main.cpp')
+      C:\Users\Dabaxa\source\repos\myproject\myproject\clasebi.h(13,23):
+      see previous definition of 'operator <<'
+  
+C:\Users\Dabaxa\source\repos\myproject\myproject\clasebi.h(91,11): error C2548: 'Developer::Developer': missing default argument for parameter 5
+  (compiling source file 'main.cpp')
+  
+C:\Users\Dabaxa\source\repos\myproject\myproject\clasebi.h(107,9): error C2548: 'backend::backend': missing default argument for parameter 5
+  (compiling source file 'main.cpp')
+  
+C:\Users\Dabaxa\source\repos\myproject\myproject\clasebi.h(107,9): error C2548: 'backend::backend': missing default argument for parameter 6
+  (compiling source file 'main.cpp')
+  
+C:\Users\Dabaxa\source\repos\myproject\myproject\clasebi.h(141,10): error C2548: 'frontend::frontend': missing default argument for parameter 5
+  (compiling source file 'main.cpp')
+  
+C:\Users\Dabaxa\source\repos\myproject\myproject\clasebi.h(141,10): error C2548: 'frontend::frontend': missing default argument for parameter 6
+  (compiling source file 'main.cpp')
+  
+C:\Users\Dabaxa\source\repos\myproject\myproject\clasebi.h(176,9): error C2548: 'enginer::enginer': missing default argument for parameter 5
+  (compiling source file 'main.cpp')
+  
+C:\Users\Dabaxa\source\repos\myproject\myproject\clasebi.h(191,8): error C2548: 'DevOps::DevOps': missing default argument for parameter 5
+  (compiling source file 'main.cpp')
+  
+C:\Users\Dabaxa\source\repos\myproject\myproject\clasebi.h(191,8): error C2548: 'DevOps::DevOps': missing default argument for parameter 6
+  (compiling source file 'main.cpp')
+  
+C:\Users\Dabaxa\source\repos\myproject\myproject\clasebi.h(211,10): error C2548: 'DataBase::DataBase': missing default argument for parameter 5
+  (compiling source file 'main.cpp')
+  
+C:\Users\Dabaxa\source\repos\myproject\myproject\clasebi.h(211,10): error C2548: 'DataBase::DataBase': missing default argument for parameter 6
+  (compiling source file 'main.cpp')
+  
